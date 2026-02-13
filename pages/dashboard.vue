@@ -817,12 +817,8 @@ useHead({
   --shadow: rgba(0, 0, 0, 0.08);
   --success: #10b981;
   --warning: #f59e0b;
-  --warning: #f59e0b;
-  hjk
-  hjkhj
-  khj
-  kjk
-  
+   
+
 }
 
 * {
